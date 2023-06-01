@@ -1,17 +1,8 @@
-# awsclassrepo
-urposeclasspe
-
-<!DOCTYPE html>
 <html>
-<body>
-
-<p>This is a paragraph.</p>
-<p>This is another paragraph.</p>
-
-</body>
+  <head>
+    <title>Body bgcolor Attribute example</title>
+  </head>
+  <body bgcolor="#afafaf">
+    <h1>This webpage has colored background.</h1>
+  </body>
 </html>
-
-code update with diff lines
-v dkjjbdcb;wdjcfwd
-code updated with git class
-today is wednesday morning
